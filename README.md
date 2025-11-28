@@ -65,6 +65,7 @@ macOS driver for the CH341 USB-to-serial chip used on this board.
 
 - [TFT_eSPI Library](https://github.com/Bodmer/TFT_eSPI)
 - [ESP32 Arduino Core](https://github.com/espressif/arduino-esp32)
+- [ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
 ## License
 
